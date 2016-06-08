@@ -1,0 +1,2 @@
+rnms/src/main/webapp/salecard/js/common.js,31669
+rnms/src/main/webapp/salecard/js/sc-head.js,31642

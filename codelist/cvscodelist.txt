@@ -1,0 +1,4 @@
+**************代码列表：
+products\OL\src\rgshcore\src\main\java\com\ai\rgshcore\service\impl\MyxjServiceImpl.java,1.29
+products\OL\src\rgshcore\src\main\java\com\ai\rgshcore\service\impl\SyncMYXJDataServiceImpl.java,1.5
+products\OL\src\rgshcore\src\main\resources\mybatis\orm\syncMYXJDataMapper.xml,1.8

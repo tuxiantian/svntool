@@ -1,0 +1,7 @@
+svn工具项目
+CombineCodeLine类用于合并代码行
+SvnUtil2类用于获取提交的代码行并获取其版本号，检查代码行文件是否最新
+SvnUtil3与SvnUtil2类似，目前的配置针对ol_java
+PrintFilePath打印一个路径下所有的文件路径，方便得到代码列表
+CheckPropertiesRepeat检测多个properties文件中是否含有重复的key
+SVNManager下载指定版本号的文件

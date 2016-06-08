@@ -1,0 +1,12 @@
+ol_java/src/com/asiainfo/ol/junittest/TestHainan.java
+ol_java/src/com/asiainfo/ol/realname/service/interfaces/IOlCloudCardReissueSV.java
+ol_java/src/com/asiainfo/ol/realname/bo/BOOlImsiSvcnumRelaHainanBean.java
+ol_java/src/com/asiainfo/ol/realname/service/interfaces/IOlCloudCardReissueCommonSV.java
+ol_java/src/com/asiainfo/ol/realname/service/impl/OlCloudCardReissueCommonSVImpl.java
+ol_java/src/com/asiainfo/ol/realname/service/impl/OlCloudCardReissueSVImpl.java
+ol_java/src/com/asiainfo/ol/realname/exe/OlSynImsiSvcNumRelHainanTask.java
+ol_java/lib/junit-4.12.jar
+ol_java/src/com/asiainfo/ol/realname/ivalues/IBOOlImsiSvcnumRelaHainanValue.java
+ol_java/lib/hamcrest-core-1.3.jar
+ol_java/config/com/asiainfo/ol/realname/bo/BOOlImsiSvcnumRelaHainan.bo
+ol_java/src/com/asiainfo/ol/realname/bo/BOOlImsiSvcnumRelaHainanEngine.java
